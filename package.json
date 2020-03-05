@@ -5,9 +5,9 @@
 	"engine": "node >= 0.6.0",
 	"main": "./lib/pdf2png.js",
 	"dependencies": {
-		"tmp": "0.0.23",
-		"pdf_page_count": "^1.0.10",
-		"filesource": "github:ghowardMSD/filesource.git"
+		"filesource": "github:ghowardMSD/filesource",
+		"pdf_page_count": "github:ghowardMSD/pdf_page_count",
+		"tmp": "0.0.23"
 	},
 	"repository": {
 		"type": "git",
