@@ -1,0 +1,17 @@
+{
+	"name": "pdf2png-node12",
+	"version": "1.0.3",
+	"description": "Takes a PDF-document and converts and delivers a PNG",
+	"engine": "node >= 0.6.0",
+	"main": "./lib/pdf2png.js",
+	"dependencies": {
+		"tmp": "0.0.23",
+		"pdf_page_count": "^1.0.10",
+		"filesource": "github:ghowardMSD/filesource.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:ghowardMSD/Pdf2Png.git"
+	},
+	"homepage": "https://github.com/ghowardMSD/Pdf2Png"
+}
