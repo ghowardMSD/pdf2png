@@ -7,7 +7,7 @@
 	"dependencies": {
 		"filesource": "github:ghowardMSD/filesource",
 		"pdf_page_count": "github:ghowardMSD/pdf_page_count",
-		"tmp": "0.0.23"
+		"tmp": "0.2.4"
 	},
 	"repository": {
 		"type": "git",
